@@ -1,62 +1,120 @@
-# 👋 Olá, eu sou Thiago Santos
+👋 Olá, eu sou Thiago Santos
 
-💻 Desenvolvedor Back-end em transição para Java  
-🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor Full Stack JavaScript
+🎓 Estudante de Engenharia de Software
 
----
+Construo aplicações web, APIs escaláveis e apps mobile com foco em performance, arquitetura organizada e código sustentável.
 
-## 🚀 Foco atual
+🚀 Foco Atual
 
-- Desenvolvimento de APIs REST com Spring Boot
-- Arquitetura limpa
-- Segurança com JWT
-- Banco de dados relacionais
+Desenvolvimento de APIs REST escaláveis com Node.js
 
----
+Arquitetura modular e boas práticas (Clean Architecture, SOLID)
 
-## 🛠️ Tecnologias
+Autenticação e autorização com JWT
 
-### Back-end
-- Java
-- Spring Boot
-- Node.js
-- TypeScript
-- Python
+Aplicações Web com React e Next.js
 
-### Banco de Dados
-- PostgreSQL
-- MongoDB
+Aplicativos Mobile com React Native
 
-### Mobile
-- React Native
+Integração com bancos relacionais e NoSQL
 
-### Outros
-- Docker
-- Git
-- REST APIs
+Containers com Docker
 
----
+🛠️ Stack Principal
+🔹 Back-end
 
-## 📌 Projetos em destaque
+Node.js
 
-### 💰 Finantza
+Express
+
+TypeScript
+
+REST APIs
+
+JWT
+
+Arquitetura em camadas
+
+🔹 Front-end Web
+
+React
+
+Next.js
+
+TypeScript
+
+Context API
+
+Consumo de APIs REST
+
+🔹 Mobile
+
+React Native
+
+Integração com APIs
+
+Publicação Play Store / App Store
+
+🔹 Banco de Dados
+
+PostgreSQL
+
+MongoDB
+
+🔹 DevOps & Ferramentas
+
+Docker
+
+Git
+
+Insomnia / Postman
+
+📌 Projetos em Destaque
+💰 Finantza
+
 Sistema de controle financeiro pessoal.
 
-- Backend Node.js
-- Mobile React Native
+Stack:
 
-👉 https://github.com/thiagosantosalves/finantza_backend
+Backend: Node.js + Express
 
----
+Mobile: React Native
 
-### 🖼️ RemoveBG API
-API para remoção automática de fundo.
+Banco: PostgreSQL
 
-👉 https://github.com/thiagosantosalves/removerbg_api
+🔗 https://github.com/thiagosantosalves/finantza_backend
 
----
+🖼️ RemoveBG API
 
-## 📫 Contato
+API para remoção automática de fundo de imagens.
 
-LinkedIn: [https://www.linkedin.com/in/thiago-santos-24468613b](https://www.linkedin.com/in/thiago-santos-24468613b/)
-Email: thiagoindie17@gmail.com
+Stack:
+
+Node.js
+
+Processamento de imagem
+
+Integração com serviços externos
+
+🔗 https://github.com/thiagosantosalves/removerbg_api
+
+📊 Áreas de Interesse
+
+Arquitetura de software
+
+Sistemas SaaS
+
+APIs escaláveis
+
+Aplicações em tempo real
+
+Produtos digitais próprios
+
+📫 Contato
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/thiago-santos-24468613b
+
+📧 Email:
+thiagoindie17@gmail.com
