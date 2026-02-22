@@ -51,6 +51,31 @@ Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com
 
 ## 📌 Projetos em Destaque
 
+### 💬 HapChat
+
+Sistema de multiatendimento para WhatsApp desenvolvido para gerenciamento de múltiplas sessões simultâneas, envio de mensagens em tempo real e controle centralizado de atendimentos.
+
+A aplicação utiliza Node.js no backend com integração à biblioteca @wppconnect-team/wppconnect, permitindo:
+
+📲 Gerenciamento dinâmico de múltiplas sessões do WhatsApp
+
+🔄 Reconexão automática e monitoramento de status
+
+💬 Envio e recebimento de mensagens (texto e mídia)
+
+📁 Upload de arquivos com suporte a imagens, vídeos, documentos e áudios
+
+🐳 Estrutura preparada para Docker e escalabilidade
+
+🔗 API REST para integração com sistemas externos
+
+Foco em performance, estabilidade e escalabilidade para ambientes com alto volume de atendimento.
+
+
+🔗 https://github.com/thiagosantosalves/hapchat
+
+---
+
 ### 💰 Finantza
 Sistema de controle financeiro pessoal.
 
