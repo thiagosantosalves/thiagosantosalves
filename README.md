@@ -1,120 +1,78 @@
-👋 Olá, eu sou Thiago Santos
+# 👋 Olá, eu sou Thiago Santos
 
-💻 Desenvolvedor Full Stack JavaScript
-🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor Full Stack JavaScript  
+🎓 Estudante de Engenharia de Software  
 
 Construo aplicações web, APIs escaláveis e apps mobile com foco em performance, arquitetura organizada e código sustentável.
 
-🚀 Foco Atual
+---
 
-Desenvolvimento de APIs REST escaláveis com Node.js
+## 🚀 Sobre mim
 
-Arquitetura modular e boas práticas (Clean Architecture, SOLID)
+Atuo no desenvolvimento de aplicações utilizando o ecossistema JavaScript, com foco em:
 
-Autenticação e autorização com JWT
+- APIs REST escaláveis com Node.js
+- Arquitetura limpa e boas práticas (SOLID)
+- Autenticação e autorização com JWT
+- Aplicações Web com React e Next.js
+- Aplicativos Mobile com React Native
+- Integração com PostgreSQL e MongoDB
+- Containers com Docker
 
-Aplicações Web com React e Next.js
+---
 
-Aplicativos Mobile com React Native
+## 🛠️ Stack Tecnológica
 
-Integração com bancos relacionais e NoSQL
+### 🔹 Back-end
+- Node.js
+- Express
+- TypeScript
+- JWT
+- REST APIs
 
-Containers com Docker
+### 🔹 Front-end Web
+- React
+- Next.js
+- TypeScript
 
-🛠️ Stack Principal
-🔹 Back-end
+### 🔹 Mobile
+- React Native
 
-Node.js
+### 🔹 Banco de Dados
+- PostgreSQL
+- MongoDB
 
-Express
+### 🔹 DevOps & Ferramentas
+- Docker
+- Git
+- Postman / Insomnia
 
-TypeScript
+---
 
-REST APIs
+## 📌 Projetos em Destaque
 
-JWT
-
-Arquitetura em camadas
-
-🔹 Front-end Web
-
-React
-
-Next.js
-
-TypeScript
-
-Context API
-
-Consumo de APIs REST
-
-🔹 Mobile
-
-React Native
-
-Integração com APIs
-
-Publicação Play Store / App Store
-
-🔹 Banco de Dados
-
-PostgreSQL
-
-MongoDB
-
-🔹 DevOps & Ferramentas
-
-Docker
-
-Git
-
-Insomnia / Postman
-
-📌 Projetos em Destaque
-💰 Finantza
-
+### 💰 Finantza
 Sistema de controle financeiro pessoal.
 
-Stack:
-
-Backend: Node.js + Express
-
-Mobile: React Native
-
-Banco: PostgreSQL
+**Stack:** Node.js, Express, PostgreSQL, React Native  
 
 🔗 https://github.com/thiagosantosalves/finantza_backend
 
-🖼️ RemoveBG API
+---
 
+### 🖼️ RemoveBG API
 API para remoção automática de fundo de imagens.
 
-Stack:
-
-Node.js
-
-Processamento de imagem
-
-Integração com serviços externos
+**Stack:** Node.js, processamento de imagem  
 
 🔗 https://github.com/thiagosantosalves/removerbg_api
 
-📊 Áreas de Interesse
+---
 
-Arquitetura de software
+## 📫 Contato
 
-Sistemas SaaS
+🔗 LinkedIn  
+https://www.linkedin.com/in/thiago-santos-24468613b  
 
-APIs escaláveis
-
-Aplicações em tempo real
-
-Produtos digitais próprios
-
-📫 Contato
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/thiago-santos-24468613b
-
-📧 Email:
+📧 Email  
 thiagoindie17@gmail.com
